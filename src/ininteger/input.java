@@ -3,6 +3,7 @@ import java.util.Scanner;
 /**
  * @author Rawah Almesri Good manners are your beauty
  June 2021
+ Test practecing 
  */
 public class input
 {
